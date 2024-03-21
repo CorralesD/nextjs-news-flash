@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { NAV_ITEMS } from '../../constant';
-import logoPng from '@/public/logo.png';
+import logoPng from '@/public/color-logo.png';
 import { NavItem } from './NavItem';
 import Link from 'next/link';
 

@@ -1,3 +1,8 @@
 export default function IndexPage() {
-  return <div>IndexPage</div>;
+  return (
+    <>
+      <h1 className='font-bold capitalize text-3xl'> Welcome to CLOS-IT </h1>
+      <div>A new app that works with Pinerest.</div>
+    </>
+  );
 }
